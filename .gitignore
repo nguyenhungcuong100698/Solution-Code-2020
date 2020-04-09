@@ -1,0 +1,9 @@
+*.class
+*.xml
+*.properties
+*.mf
+*.project
+*.classpath
+\bin
+*.metadata
+\.settings
